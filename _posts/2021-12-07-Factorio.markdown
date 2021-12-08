@@ -1,0 +1,168 @@
+---
+layout: post
+title: "Shadow Reviews: Factorio"
+date: 2021-03-21 12:29:52 -0500
+categories: jekyll update
+---
+
+## A Farewell to Time.
+
+<br>
+
+# Overview
+
+Factorio, also known as Cracktorio, is a strong stimulant made by Wube Software. It is most frequently used as a recreational drug. It is commonly snorted, inhaled as smoke, dissolved and injected into a vein, or passively ingested via a transfer medium, such as a computer monitor. Mental effects may include an intense feeling of happiness, loss of contact with reality, or genocidal tendencies. Physical symptoms may include dyschronometria, physical exhaustion, and insomnia. Effects begin within seconds to minutes of use and last between sixty and six hundred minutes. Factorio has a small number of accepted medical uses, such as reality escapism.
+
+Factorio is addictive due to its effect on the reward pathway in the brain. After a short period of use, there is a high risk that dependence will occur.
+
+<br>
+
+# Shadow's Factorio Resume, a Struggle with Addiction/Factorio, a History/A Cry for Help
+
+Hi, my name is Shadow. I've been addicted to Cracktorio since 2016. I've been in and out of jail about five times now, and this is my second time in rehab. My addiction has cost me basically everything, except for my wallet. I'm waiting for the day of reckoning. The dealer I've used for years gives the stuff away, super cheap, just to keep you addicted. I don't know what they want or when they're going to collect, but I know the day will come eventually where I must pay the ultimate price.
+
+In the meantime, I'll kill all the bugs. Every last one. I won't stop until they're all dead and rotting.
+
+I was tipped off to Factorio very shortly after its February 21, 2016 Steam release. That [fateful March 16th](https://i.imgur.com/C9MCnXX.png), for the low price of $20, everything changed forever.
+
+I went in basically completely blind, only being told that it was a factory building game and that it was "pretty good," despite the... Lackluster quality of its graphics at the time, which were pretty low resolution. I played it for an hour or two that night, playing through the tutorial that was available at the time which got you accustomed to the basic operation of the inserters, conveyor belts, miners, and furnaces. That night, I went to bed thinking "Wow, that was a neat little game. Maybe I'll play it for five or six hours or so before I forget about it and never think about it again."
+
+<br>
+
+![Save me.](https://i.imgur.com/mWWuTt2.png)
+
+<br>
+
+Anyway, now _exactly_ (at the time of writing) five years on from that fateful day, I have been consumed. Now, in close proximity to any relatively major event in my life that I can recall, there is Factorio lurking. At the end of high school, I celebrated my two week vacation before the start of college with a Factorio binge. Parents out of town? 60 hours of Factorio in nine days. Bachelor's degree? Factorio. Master's degree? Probably Factorio. Marriage? Well, honey, why don't we just skip the reception and get straight to the Factorio?
+
+I remember my first base, and if I was so inclined, I could figure out what the process is to keep version-switching my way through the early access history of Factorio in order to recover and reopen it after five long years. I might do for this review if I can be bothered (editor's note: I cannot be), but also maybe not. Now, five years on and 25 created worlds later, I feel as though I may speak authoritatively on matters of great Factorioan importance -- as a humble novice who is just setting foot on the Great Factorio Journey.
+
+You see, in all my hundreds of hours, dozens of worlds, and countless moments of slaughter and lamentation, I've managed to complete the game a grand total of exactly one singular time. You see, "completing" Factorio is about building a mega-factory to build everything necessary to build and launch a satellite into space after crash landing on an alien planet alongside hostile alien life forms. The aliens will try to come for you and take everything from you, so you erect turrets and walls to slaughter them in untold millions, like the disgusting bugs that they are, while you bring your perfect creation into existence, before stepping back to realize that your base is shit and full of spaghetti belts and bottlenecks which you're totally going to play better for next time around and not make the same mistakes, 100% you're going to definitely do that, so then you ditch that save after 30 some-odd hours to try again, only to do the exact same thing another.... Oh.... 22 times or so.
+
+Anyway, I've played Factorio a decent amount. I have most of the recipes in the game at least somewhat memorized, and I've been around for quite a while. I remember back in the day when there were only three tiers of science, and after red, green, and blue science you went out into the wastelands to take the fight to them, smashing their disgusting little hovels and killing them all to rip them apart and take their weird little purple goo thing to turn into purple science.
+
+Early access games generally have a bit of a bad reputation, encouraged by the upswing in AAA developers launching full-priced games that ship in such a state, or with such a lack of content, that they could charitably be described as early access products, or "Early AAA-access" as Jim Fucking Sterling, Son coined. Factorio is perhaps one of the most polished games that I've ever played, even in its early access state. I would say that the game has definitely gotten better as the development cycle went on, but had the game not been updated at all since its original release on Steam in 2016, I probably would have been pretty happy with the game. I wouldn't have played it for 500 going on 600 hours, but I would have played it a decent amount and thought it was pretty cool.
+
+That said, the game absolutely did not remain stagnant at any point during its long development cycle, thanks to the team I consider to be the shining example of what an indie game developer can be: Wube Software. The team at Wube produced a weekly 'Friday Factorio Facts' blog every Friday for 360 consecutive (I think) Fridays. Maybe they took one or two off in there somewhere. Some of them were about the game, upcoming features, funny bugs they found, little test programs they threw together to test a new feature, mods, proposed changes, progress updates, the developers' general philosophy towards games and development, and more. On top of that, the game went through numerous major and minor versions before the 1.0 release on August 14, 2020. Whenever a major version would release, there was an absolute torrent of minor releases in the _hours_, let alone the days and weeks that followed. Every bug anyone managed to find was quickly and ruthlessly squashed. I think the record was when we had a major version release and then like ten additional bugfixing releases over the course of the next 24 hours. The team at Wube is so great, they're above even the most common and accepted of deceptive tactics, like putting their game on sale or even making the price $19.99, no, Factorio retails for $20. Then, after a while and as the 1.0 release was coming up, they decided to raise the price to $30. Not $29.99, but $30 exactly, and they gave everyone _months_ of advanced warning and encouraged them to buy the game before the price increase. Since debuting on Steam in 2016, Factorio has gone on sale exactly zero times, and they've said they have no plans to put it on sale anytime soon, probably ever.
+
+I personally think things like brand loyalty, or professing your fandom for a company of really any size to be kind of dumb, and a great way to be exploited. That said, I'm a fan of Wube Software, and would probably buy anything they put out without a second thought, and if I were ever to spin up my own indie development studio, I would follow in their footsteps with transparency and communication with the community.
+
+Now, during the development of Factorio, the game changed quite a lot without them actually adding much in the way of content. There have been additional items that have been released, sure, but the majority of the changes involved an expansion of science, bringing the total number of science packs in the game up to seven, six of which are craftable by the player and must be crafted in order to launch the satellite and finish the game. Most of what changed was the recipe of those science packs, something that did prove to be annoying during the development cycle where a recipe for a science pack would be completely altered and require you to overhaul a major wing of your factory in order to implement the new recipe. This is something the team at Wube understood, so they tried to do it as little as possible, but the science recipes in some ways were their best tool for balancing the game, encouraging players to expand their factories and territory and pushing them to start mass producing products that would help them achieve that goal, like forcing them to build engine units for blue (chemical) science which is a key component in creating bots which makes the game so much easier to play at a large scale.
+
+I don't really have much else to say, because that was already a lot about the background and development of the game, but now 1.0 is out and the game is done. There have been a few minor additions, some UI tweaks, and bugfixing that has happened since August, but the FFF are no longer weekly and the game is done with the team having moved on to another project.
+
+Unless...................
+
+## [HO MA GAWD AN EXPANSION FOR FACTORIO?! FACTORIO IS BACK BEEEEEEEEEEEYBEEEEEEEEEEEEEEEEEEEEEEE!!](https://factorio.com/blog/post/fff-365)
+
+So anyway, somehow they're going to expand on this game. As an expansion, I'm almost certain that it will be an expansion to the endgame, giving you something to do _after_ launching a satellite if you don't want to improve your base and keep launching satellites on the same map for no real reason. There are a ton of mods that extend the game in this manner, like Space Exploration, which is a brutally difficult mod because of the sheer amount of resources and scale of your production that it requires, where each map could easily take over a thousand hours. By the way, we'll talk about mods later.
+
+Anyway, we're about 1,800 words in. Let's start the review now!
+
+<br>
+
+## Gameplay
+
+# The Factory Must Grow
+
+<br>
+
+So, for those of you who have never heard of Steam's number two rated game of all time by reviews with 97.44% positive ratings, let me learn you how to become a mechanical engineer.
+
+Factorio is a game about building a factory-o in order to launch a rocket. The player starts, crash landed on an alien world with no supplies but for one stone furnace, one burner mining drill, eight iron plates, and a single iron stick. Or at least, that was back in the day. Since they removed pickaxe's altogether now you get a furnace, drill, and nine iron plates, but you have to mine the pieces of the crashed ship in order to get the iron plates.
+
+At any rate, you're alone on a planet with basically nothing and somewhat surrounded by enemy alien bugs called "biters" because they bite you and all your shit unless you kill them. The biters evolve and will attack based on how much pollution you're outputting, with things like furnaces, assemblers, miners, and power generators outputting pretty large amounts of pollution. The bugs will target large sources of pollution, taking the shortest route from their "rally point" next to their bases. Any military structures, like turrets, will attract their attention if they're placed in between the target and the biters, allowing you to funnel them if you want.
+
+While everything I've just said makes Factorio sounds more like a base/tower defense sort of game, that's more like a minigame which you can pretty easily just turn off by enabling peaceful mode if you just want to focus on your factory. The biters force you to invest resources into defense earlier on and can somewhat limit your opportunities for expansion until you're able to build enough walls and turrets to protect your outpost, then requiring an ammo logistics system. There are also other modes to tip the scale straight in the other direction, known as 'death world' in which the biters blanket the map and swarm you constantly.
+
+Anyway, the primary goal of Factorio is to launch a rocket. Doing so requires an immense amount of resources that is borderline impossible to collect by yourself, with a few things required not even being craftable by the player. As the tagline goes, or at least used to go, automation is the key. In order to achieve your ultimate dream of becoming Elon Musk, you take your hand and punch some coal in the ground. By the way, Factorio is a 2D/top-down/isometric type point of view, not first person or something like that. This isn't Minecraft.
+
+Right, in order to achieve your ultimate dream of becoming Elon Musk, you take your pickaxe-hand thing (they removed pickaxes as an item so it's just sort of assumed that you have one now, I guess) and smash some coal, then take that coal, slam down your burner mining drill, load it up with the coal that you just mined and watch as it produces more coal to put in the drill to mine more coal to put in the drill to mine more coal. Then you do the same thing with iron, using the extra coal from your coal drill to mine iron, to make plates to make more miners to eventually build electric miners, conveyor belts, inserters, steam generators and more. You basically have your mining machine, which for the entirety of the game will be electric mining drills which require electricity and produce whatever ore they're placed on top of until the ore directly under them runs out. The ore will be directly outputted onto a conveyor belt, which can then carry it over to an inserter which will plop it into the furnace, which can then be removed from the furnace and placed onto a belt, carried over to an assembler, which will take components and output them into a finished product.
+
+Get it?
+
+That's basically the core game loop. You take raw materials consisting of: iron, copper, coal, stone, oil, uranium, and water to keep combining them into more and more complex recipes in greater and greater quantities, using automation to automate building the things that you need to do automation like belts, inserters, miners, and assemblers until eventually you have the production capacity required to build and launch a rocket with a satellite. Or a fish.
+
+Another critical component of the game is the technology and research system. In order to unlock basically anything that I just mentioned, you first have to research its corresponding technology by build research packs and putting them in a research lab. As I mentioned earlier, there's various tiers of science packs that progress in complexity of ingredients as you move up, and advanced technologies will require many hundreds of different kinds of research packs, with some technologies requiring all research packs in order to research. The recipes for the science packs are balanced and structured in a way that is designed to encourage the construction of materials that are required to build the rocket and satellite, effectively serving as a way to tug players along through the game and get them to the end game, while also leading them pretty close to a lot of the useful technologies, like utility science packs (yellow science, the second highest tier behind space science which is acquired by launching the rockets, so the highest player craftable tier of science) requiring you to build flying robot frames which just have to be combined with a single electronic or advanced circuit in order to make a construction or logistic robot, respectively.
+
+This hasn't covered nearly everything. I could explain the entire progression of a base from beginning to end, but you probably get the idea. There's trains, cars, and tanks, along with a bunch of different kinds of turrets, artillery, nuclear weapons, different power sources, different furnaces, Spidertron, and so much more.
+
+It's simple, it's complex when you first dive into it, but it's not really overwhelming for new players because it's a pretty clear order of operations. It can get overwhelming in the mid-game when you're torn between improvements to temporary systems you might've thrown up, eliminating bottlenecks, expansion, and adding additional recipes or science packs to your production network, but by that point you've probably got a pretty good handle on things. For me, it's simultaneously one of the most stressful and relaxing games at the same time, and if you want you can even roleplay as a genocidal maniac intent on eliminating all the bugs from the planet.
+
+But, before we move on, why don't we just take a gander and breakdown a few screenshots of a world that's just about entering the mid-game? There's not really any official divisions about what determines stages of the game, but generally speaking I would call the first technology researched that requires blue (or chemical) science, to be the start of the 'mid-game' for a specific map, which is about where my current map is. How convenient.
+
+First let's take a look at the heart of any good base -- the iron mining. Now, this is actually a pretty big screenshot which is good because I can fit a lot of stuff on my monitor so we can see a bunch of different things.
+
+![IMAGE](https://i.imgur.com/u3r7y91.jpg)
+
+Let's start from left to right. On the left, we see the steam engines with the boilers in from of a line of coal that's split several times, with some coal going over to keep the boilers stocked to produce steam. Next, we can see various electric miners collecting both copper and iron. Patches won't always be this close together, but generally I try and generate worlds until I can get a map which has a decent amount of resources close to each other so there isn't so much walking in the very early game.
+
+You can see I'm mining way more iron than I am copper, which is common. Way more iron is used in recipes than copper is, which explains why one is so much larger. Next, we can see the banks of furnaces with mixed belts of copper and coal running in. You can setup belts in such a way where one resource will be loaded on each side, so half of the belt carries iron ore and the other half carries coal, same with the horizontal line of furnaces that smelts the copper. You can see I'm using four belts of iron plates and only one belt of copper for the main bus. I'll probably have to expand copper relatively soon. The other furnaces in the top right take iron plates to produce steel.
+
+![IMAGE](https://i.imgur.com/lGJhQBh.jpg)
+
+In this screenshot, we can see the very beginnings of oil production. I didn't have any oil close to my base, so all the oil is collected at an outpost and transported by train with a fluid wagon, which is currently away to refill. The crude oil is pumped into holding tanks where it will then go into the refineries to produce petroleum. Right above the iron gear production you can see I'm combining coal and petroleum to produce plastic in a chemical plant, which is used in advanced circuits. An early technology in the blue science section of the tree unlocks Advanced Oil Processing, which requires crude oil and water into the refineries and produces petroleum, heavy oil and light oil, which will then have to be piped out and stored separately, which is much more complicated than the current setup. There's also a brief hint of the main bus over on the left.
+
+![IMAGE](https://i.imgur.com/JkBpb33.png)
+
+Speaking of buses, unless you're going for a mega base, most bases will use a main bus, at least for the first few rocket launches. A main bus basically just means that you have some number of belts which carry a certain material grouped together and expand that in one direction, then you can break the production of various components off to the side, splitting off belts from the main bus to run over there. It's one of the easiest ways to organize everything in the game, especially for this stage. You can see various belts being split off to run over to the left or right to produce some material.
+
+![IMAGE](https://i.imgur.com/qgCTSBR.png)
+
+Here's a look at science land, currently producing the first two tiers of science (red and green), as well as having military science (black) up and running, but with nothing having been produced yet. Currently I'm in the middle of tearing down and rebuilding science land to expand it and add blue science, which is above military science and currently under construction.
+
+![IMAGE](https://i.imgur.com/gnB67mp.png)
+
+Here's research land, where the science labs take and use science packs in order to research technologies. In the early game, you'll usually have research labs on both sides of a single belt, but after you have more than two types of science packs that gets pretty annoying to do, so most players will switch to something like this, there only the first row of labs will be loaded from the belts, and then subsequent rows will just grab out of the first row which will grab more from the belts. Then when you need to add the other packs, you can just do the same thing on the other side of the labs to relatively easily get a total capacity of 8 discrete types of science. There are other things you can do, like weaving belts or doing a sushi belt, but that is way more complicated and I never bother.
+
+![IMAGE](https://i.imgur.com/8JunoQv.png)
+
+Finally, I hopped in the car to take a trip on over to my big, beautiful wall that I made the biters pay for. You can see our big, beautiful wall manned by automated laser turrets, which only require electricity to fire. There are also gun turrets and flame turrets, which use different types of ammo or flammable oils to fire, but gun turrets have to be manually reloaded, or at least have a belt with ammo and an inserter.
+
+They're fine, but it can be a huge pain in the ass to set up, plus then you have to run either giant belts full of ammo or have trains carry ammo closer to your walls, which I generally find to be annoying and can really slow me down in the late early game, so in this instance I sort of beelined for laser turrets before I made any attempt at expanding my land holdings. There's some bug corpses in front of the wall. I'll kill them all. Every last one.
+
+<br>
+
+# Multiplayer
+
+I've never played multiplayer but it's probably pretty good. It'd be like Factorio but with multiple people, so you wouldn't have to do everything yourself! Ain't that neat? If I were to do something like a Bob+Angel's run or Krastorio 2, I might want another person there to help me figure that shit out, but first I'd have to grow a friend and then they'd also have to like Factorio so that's probably not happening.
+
+<br>
+
+# Mods
+
+Factorio has one of the most batshit insane modding communities of any game ever. Back in the day, I used to play a lot of Minecraft, and I thought that some mods like Feed the Beast, Tekkit, Volta, or others (or Skyblock now, I guess?) were insanely complex. Factorio mods take that insane complexity on top of a game that already can be pretty complex, combine it with black tar heroin, crystal meth, and fucking crack and inject it straight into your veins. There are some absolutely infamous mods like Bob's mods, Angel's mods, Krastorio 2 (K2), Pyanadon's mods, Space Exploration (SpaceX), or some combination of these if you really fucking hate yourself, which basically take the complexity from a solid 9/10 to a legitimate 50/10.
+
+Hey, I see you're going for this sort of amateur mechanical engineer thing, that's nice, but what if instead we complicate it to the point you need an actual mechanical engineering degree, oh and also, have you ever considered becoming a chemist? You're gonna fuckin' need it where we're goin', son.
+
+What if instead of having the standard handful of resources, we had like fifty different individual raw resources, and instead of just mining them and chucking it into a furnace, you have to mine it, then you process it, then take that and put it in another machine to make iron pellets to put in a blast furnace with coal coke to make iron ingots to put into an induction furnace to make molten iron to put into another thing to make iron plates. That's not too bad, right? Iron is one of the easiest materials to refine. There are so many more materials.
+
+It's hard to communicate how absolutely fucking insane some of the mods and mod packs (combining many different mods, like combining Bob's mods and Angel's mods) can become. If you pick a suitably complex modpack, you can easily spend thousands of hours on a single world building a mega base, or merely hundreds of hours on a single world _just_ trying to get a single satellite launch and completion of the game.
+
+The legends say that if you were to take Pyanadon's mods, and combine it with Bob-Angel, then finish it off with SpaceX, you'll never be heard from again.
+
+That one might actually require thousands of hours just to beat the game.
+
+The mods are the abyss. It terrifies me. It screams out to me, grabbing at me, infiltrating my mind, robbing me of the last vestiges of sanity, threatening to consume all I am, twisting and tormenting my mind until I become something I can no longer comprehend, some horrific figure that stares back out at myself from within the depths of the void. I know it will one day consume me, I am powerless to resist it. I can feel it even now, ripping away at the edges of reality, a constant reminder that soon I will no longer be able to hold on, though I must fight to the bitter end, else the darkness and I will bleed into one. It is only a matter of time.
+
+<br>
+
+# Replayability
+
+I've played Factorio for 600 hours. I've beaten the game once. I've hardly touched trains. Playing with mods has yet to even cross my mind. As you might remember from ten seconds ago, some of the mods are worth seven additional games unto themselves.
+
+Yeah.
+
+You can replay Factorio if you want. You can try to run from it. You can try to deny the truth. Once you breathe in the poison, it will be with you always. You can never truly escape it. It's not a matter of if you can replay Factorio, it's a matter of if you can avoid replaying it.
+
+<br>
+
+# Conclusion
+
+Factorio is a beautifully complex simple game that manages to suck me in and keep me in like no other game currently can, even if I only binge it a few times a year. It is one of the few games that I would legitimately consider as being 'endless enjoyment.' No matter how much Factorio you've played, you can still play another game without feeling like you're doing the exact same thing, because each map and it's locations of resource nodes introduces new challenges. Then, if you've decided that you've finally played enough of the vanilla game and you need an additional challenge, there's the abyss of the mod portal which turns your experience into pure insanity, offering additional endless hours of enjoyment.
+
+Since its release on Steam, Factorio has been one of the most consistently highly reviewed titles on the store, garnering millions of sales, and there's still an expansion on the distant horizon that I am very, very excited about.
+
+<br>
+
+**Shadow Reviews Factorio: 10/10.**
