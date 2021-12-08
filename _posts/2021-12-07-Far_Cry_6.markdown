@@ -1,0 +1,201 @@
+---
+layout: post
+
+title: "Shadow Reviews: Far Cry 6"
+
+date: 2021-12-07 12:00:00 -0500
+
+categories: jekyll update
+---
+
+# _Did I ever tell you what the definition of insanity is?_
+
+<br>
+
+_Disclosure: This product was received for free as part of a promotional bundle with the purchase of a qualifying AMD processor. Sadly, this will not save them._
+
+<br>
+## Overview
+
+Insanity is doing the exact same fucking thing over and over again, expecting shit to change.
+
+Have you ever met someone who you know peaked in high school? They're the people who maybe can't let go of their meager success on Friday nights under the lights and who "totally could have gone to the pros if only..." or talk about how popular they were or whatever.
+
+That's kind of how I feel with Ubisoft and all of their franchises. It feels like they're still clinging to the greatness of the early Assassin's Creed games or Far Cry 3, without any ability to look themselves in the mirror and move on to make a new entry in either series to truly live up to what they hold high as their former glory.
+
+The other option is that Ubisoft as an entity is so creatively, morally, and ethically bankrupt that they truly have no desire to release compelling video games and have done the calculus to determine that releasing uninspired and mediocre drivel is more cost effective and shareholder friendly.
+
+Go check the news on Ubisoft. We both know which is the truth.
+
+<br>
+## Singleplayer
+
+Holy shit this game is bad.
+
+Far Cry... Uh.... _checks notes_ 6 offers a singleplayer focused experience where the whole thing can also be experienced co-op, with every mission now being playable with a friend. Since Far Cry 4, there's be some kind of co-op offering. Far Cry 4 had a special co-op mode with a half of a handful of dedicated missions, but you couldn't do main story content with another person, which I believe was similarly the case for Far Cry 5, but Far Cry 6 has seemingly dropped this restriction, now allowing you to bear your cross with a friend. Yay.
+
+Anyway, I don't have any friends which is why there's only a singleplayer section of this review. Unless I decide to talk conceptually about multiplayer. We'll see.
+
+<br>
+# Story
+
+Plot has never been the highlight of any Far Cry game, not even the great Far Cry 3, but holy fuck at least they used to try. Far Cry 4 was the same plot as 3, but with any of the interesting or moderately compelling bits stripped out, and they've just reused the same fucking thing ever since with no attempt to provide and interesting or engaging narrative with any subsequent entry.
+
+Let me give you a rundown of the Far Cry 6 plot as I remember it with what's left of my brain after CTE as I spent the runtime of the game mostly bashing my skull into my desk, because frankly that was more interesting.
+
+Far Cry 6 takes place in a shithole country called 'Cuba' which is, I'm told, somewhere in the Caribbean. Ah, hang on one second. I'm receiving an urgent message from my producer. Uh huh. Right. Got it. I see.
+
+So it turns out it doesn't take place in Cuba, but rather takes place in Yara, a shithole country in the Caribbean which is also known as Cuba. Glad we could get that one cleared up. Cuba still exists though, so I guess we just got two Cubas this time around.
+
+So basically in 1967 there was a Revolution to overthrow then dictator President Gabriel Castillo, which lead to a complete collapse of the economy which relegated the island to shithole status until former dictator's son Anton Castillo is elected president with promises to reform and stabilize the economy and Make Yara Great Again. It was never great though, so maybe just Make Yara Great. Anyway, electing the son of a dictator results somewhat predictably in another dictator.
+
+Yara has a special variety of tobacco which has some kind of gene in it to inhibit the growth of cancer cells, which eventually becomes known as Viviro. Anton sees this as the opportunity to reform the economy and make his country a factor on the world stage by producing a drug to combat the disease scientists have been battling for decades. After seven years, he announces a lottery to enslave lucky Yarans to work in the tobacco fields to cultivate the tobacco to produce Viviro. the army (FND) starts liquidating slums in the capital city of Esperanza to send the citizens to the fields. It is here that our story regrettably begins with our intrepid protagonist, Dani Rojas, hanging out on the roof of a building in the capital with Friend A and Friend B.
+
+They're talking about Miami, because they've secured themselves tickets on a smuggler's boat straight to the US when the soldiers roll through to start rounding up civilians. Friend A isn't thrilled, and yells at the soldiers in the street below and throws a beer bottle at a tank. He gets shot in the head. Oh no. He lasted all of... Two minutes? Dani and Friend B take off running through the city, crawling through alleyways and old tunnels that the '67 guerrillas used in the first revolution to escape to the harbor and reach a boat, where a teenage boy is trying to get on the boat but is continuously rejected until Dani shows up, informs the smuggler of the death of Friend A, and demands the kid get on the boat. Everybody gets in and hides in the boat which sets off the next morning.
+
+Unfortunately the boat is stopped by the Yaran Navy, and Anton Castillo himself comes down to welcome the stowaways to the rest of their lives, which unfortunately for them is only about the next four minutes, and it turns out the boy was actually his son, Diego Castillo, who was trying to escape the country. He takes Diego who begs him to leave the rest of the people on the boat alone, which he agrees to. They leave, and then the Navy fires into the hull of the boat, killing and/or fatally wounding everyone accept Dani. Dani washes up on the beach, finds Friend B who was shot in the chest, Friend B tells Dani to join Libertad and fight, then dies. Oh no.
+
+Anyway Dani joins Libertad and fights. The rest of it is just the most typical Far Cry plot without anything really interesting or of value. As part of Libertad, you do the whole guerrilla warfare thing, capture checkpoints and bases, steal supplies, blow up convoys, burn down one Viviro plantation, etc. There's nothing else of plot significance left in the rest of the runtime of the game. There's characters that you meet and interact with and forget almost instantly.
+
+Like Far Cry 5, the map is divided into three main regions, with each region having one or two primary figures that you have to recruit to join Libertad, which just means doing a series of missions for/with them until they agree to join. None of them are particularly memorable, and none of the missions you do are that interesting. Like Far Cry 5, there is a main baddy presiding over the region that you'll kill in the last mission to effectively complete it, although it seems that the FND presence never really leaves the region at any point. Maybe you have to do all of the things in the region, which I didn't because there was a specific side activity that I just hated and didn't do more than one of.
+
+Sometimes it seems like they're trying to do something with Diego, the dictator's son, to make it seem like he's sympathetic to the rebel cause, or at least doesn't endorse what his father does. It's supposed to be an interesting coming of age type of plot where a thirteen year old boy is forced to choose how he's going to run his country after taking over as El Presidente, but he doesn't get enough screen time to make it work, and they seemingly backed out of it last second.
+
+There's a handful of encounters between Diego, Anton, and Dani throughout the game. The earliest being Dani raiding a hotel during a speech to kill Anton, but only Diego is present. Dani lets Diego leave, so later in the game when Dani is captured by Anton, Diego convinces his father to let Dani live as payment of the earlier debt. That's basically it. It's clear through most cutscenes with Diego that he's pretty pro-rebel, but at the end of the game they make it seem like he's swinging back the other way after his mother is killed by the rebels. It's hard to tell, because if you did the regions in a different order, that narrative might be out of order. I think I did it in the way that it ended up making the most sense, or maybe they have it orchestrated that the missions won't be available until you're going to do them correctly for narrative reasons, I'm not quite sure and don't care enough to look into it.
+
+Blah blah blah, you get to the end of the game eventually. The Che Guevara of this story, Clara Garcia, is captured by Anton at what was supposed to be a peace summit thing, and is killed during Dani's ill-fated rescue attempt, meaning Dani gets promoted to commander of Libertad, which I guess makes Dani the Fidel Castro of the story. They raid the capital, Anton and Diego are hiding in a penthouse in the hotel, Dani storms the hotel and confronts them. There's some monologuing and some bullshit, then Anton shoots his son in the chest and slits his own throat. Diego bleeds out, Dani refuses to take control of Yara and leaves it in the hands of the rag-tag group of random shitheads with guns and leaves. Surely that's a flawless plan. Also the Viviro maybe doesn't even do anything at all really so they're just dumping cancerous fertilizer on fields full of slaves to grow diseased red tobacco to produce a placebo, they sort of allude to it but aren't abundantly clear. At the end of the game it's revealed that Castillo has acute leukemia. Anyway he died.
+
+Que credits. The end.
+
+Be thankful you didn't have to suffer through it as long as I did.
+
+Is it that bad? Honestly, no. What it is, however, is incredibly uninspired and lacks any kind of creativity, innovation, or differentiation. The plot itself is fine once, but at this point it's been re-run verbatim so many times that it just becomes nameless gray faces saying the same sorts of things in the same kind of way all the time. The plot is fundamentally the same plot as Far Cry 3, but without Vaas to hard-carry, the same plot as Far Cry 4, but without the drugs, and the same plot as Far Cry 5, but without the Biblical quotes and drugs. Every time they run it back, it looses even more appeal, because I would rate those games in that order in terms of plot, even though they're basically the same.
+
+Furthermore, the plot is the same plot as the Just Cause series, and the same plot as Homefront, and the same plot of something else, probably. At this point, it just isn't good enough anymore.
+
+Sadly, an utter lack of inspiration or creativity isn't the only issue here. There's a number of technical issues with the plot itself as well. Sometime after Far Cry 3, whoever is in charge of "writing" these things seems to have conflated lore and story, and mistakenly seems to believe a character whose moral compass has been set to be inherently interesting or strong.
+
+I want to focus on the latter one first. In Far Cry 3 Vaas was an interesting character for a variety of reasons. His dialogue was well written and performed, he was absolutely insane, and his actions reflected that. In Far Cry 4 and 6, the writers spend an inordinate amount of time trying to establish the character as evil, but never actually flesh out the character beyond that. It's just "evil guy who does bad things and wants to kill you," but this doesn't make the character interesting in any way. Far Cry 5 did mildly better with Joseph Seed, but Far Cry 6 does not.
+
+They establish Anton Castillo as an evil dictator, whose views of society are pretty fucked up from watching his father be executed as a child and spending thirteen years doing hard labor after the revolution, but they never establish a personality, motivations, or character really beyond that. He's just evil, but that's not enough to make him an engaging character. There's nothing about Far Cry 6 that makes you want to kill Anton Castillo beyond he's the evil dictator and the plot says I have to kill him.
+
+In Far Cry 3, Vaas tried to kill you or your friends personally so many times that you have an actual reason to hate him, there's some emotional investment that makes you want to kill him. Far Cry 6 unfortunately lacks that.
+
+On the subject of lore, Far Cry 6 has lore, but it's haphazardly thrown out. They keep talking about the '67 Revolution, how Anton Castillo wants to rewrite history, yada yada whatever. None of it is that impactful to the story, informs the behaviors and personality of characters more than a mild amount, or really adds anything to the gameplay experience. It's just sort of there and doesn't matter.
+
+I don't know what plans Ubisoft has for the future of the Far Cry franchise, however I have an idea or two. See the post-credits scene section for that, but the franchise is in dire need for a complete overhaul. The uninspiring and repetitive plot is in part held back by the gameplay that has not been significantly innovated on in a decade. Because the gameplay is so formulaic, there's only so much they would really be able to do with the plot even if they did want to try and do something different, which I think they're pretty clearly not interested in doing.
+
+<br>
+# The Post-Credits Scene
+
+So it turns out the single most interesting component of this game is the post-credits scene that I accidentally skipped. It's only thirty seconds long or so, and consists only of a handful of lines exchanged between Juan, the ex-CIA ex-KGB ex-whatever grizzled cynical special forces spy smuggler guy, and an unnamed smuggler, as they exchange some smuggle Viviro.
+
+It is _abundantly_ clear to anybody who played Far Cry 3 that the unnamed smuggler is, in fact, Vaas. It's Vaas' voice, and he says something along the lines of "Shame about that Castillo kid, what his papa did... Now that is crazy."
+
+For anyone who _remembers_ Far Cry 3, Vaas ironically had an inordinate amount of focus placed on the mind and insanity, and in some of his most famous lines remarked "That is crazy." I believe this post-credits sequence is supposed to be a teaser setting up for the possible return of Vaas who was believed dead after being stabbed in the heart somewhere around 60% of the way through Far Cry 3. If you've never seen it, go look up gameplay of Vaas' death and also his definition of insanity speech, which is what the subtitle of this review comes from.
+
+It might be hard to believe, but Far Cry was actually good once. The return of Vaas might be a bit contrived, but at that specific point in the story Jason was tripping balls on so many drugs that you could make the argument that none of it happened as depicted anyway and Vaas in fact survived. The idea here might be that Ubisoft has noticed the decline in player sentiment towards the series ever since Far Cry 3, specifically pundits and other morons like me holding up every subsequent villain against Vaas for comparison and just saying "Hey, why don't we just bring that guy back if people liked him so much?"
+
+It's a somewhat lazy way to breathe life back into a desecrated corpse of a video game franchise, but it could work assuming a fresh approach to narrative is combined with a significant overhaul of the gameplay experience for Far Cry 7. I would not say that I'm excited about it, but I could see a path forward where they could actually make another good Far Cry game, and then probably fuck it up four or five more times before making another good one.
+
+I kind of want to play Far Cry 3 again. That game was good.
+
+<br>
+# Gameplay
+
+Honestly, I don't generally hold high aspirations for a story in a game published by Ubisoft, I would argue that Far Cry 3 was kind of the pinnacle and even then the plot was nothing spectacular, it just happened to have a really good character to sort of deadlift it.
+
+The focus of the Ubisoft open world experience is, has always been, and will always be primarily on the gameplay. Unfortunately the gameplay for Far Cry 6 falls so very far below the mark it needed to hit that it isn't even funny. Ubisoft gets memed on pretty often for releasing copy and pasted games that are identical to all their last ones, and this is probably one of the worse ones so far.
+
+This game is identical to Far Cry 5 in every way. There's a sort of interesting issue here that companies can face where if a game is too similar to the last one in the series, it's a bad thing because it feels repetitive, but if you "innovate" too much, or make such fundamental changes to the core experience, players will wonder why it has the name of that series on the box when it could have just been its own thing.
+
+It can be an issue that's more complicated than the vast majority of players will really take the time to think about, because all they want is more of the game they liked, but different enough that they're still engaged with the new title.
+
+Now on the other-hand, the Far Cry formula is old, and Ubisoft has not done enough to keep the experience fresh and engaging. Far Cry 3 was not a revolutionary game, it was a pretty typical Ubisoft experience but the story was surprisingly well written and the core game play loop hadn't been iterated enough times in the same format to get so long in the tooth. Far Cry 4 really didn't change much from Far Cry 3. Far Cry 5 actually made some of the most significant changes to the series, but they're mostly superficial.
+
+The core gameplay experience of a Far Cry game is to shoot people, free outposts, get better weapons, and unlock new skills that buff your character in some way. Around that, they add a bunch of busy work, repetitive quests, events, hunting, fishing, whatever.
+
+Far Cry 5 took the standard map, divided it into three, put a different bad guy in charge of each area, and told you to go kill those three and then you can kill the main bad buy. The map design was modified significantly such that roads were a big thing, which they weren't so much in 3 and 4. Supply convoys, random supply trucks, and prisoner trucks would then roam the roads and the player could shoot the driver to steal the supplies or free the prisoners or whatever. All of this appears in Far Cry 6 the exact same way as it did in 5, nothing has changed.
+
+Far Cry 5 would also have some random bits of red destructible infrastructure that you could find like you might in Just Cause, but those were removed. Outposts were reworked, so you know have checkpoints and military bases. Military bases are like slightly beefed up outposts from previous games, and checkpoints are like slightly anemic outposts from previous games.
+
+Checkpoints are only guarded by a few enemies, and ultimately don't really contain anything of value. The only thing they do is serve as a fast travel point after you take twenty seconds to clear them. Outposts in previous games were actually more satisfying and engaging to clear, because there would be a little bit more to them. In Far Cry 6, you walk into the woods or up the hill next to a checkpoint, snipe the three guards, burn down or blow up the billboard, and you're done. The military bases provide that same experience that the checkpoints lack, but there's just more dudes, so you snipe some more people and then you win.
+
+For some reason, there are big sections of the map that are enemy controlled, but don't have any associated objective, so seemingly you just can't ever free them. In previous games, it was more like a revolution and once you pushed the enemy out, they would usually stay out. Far Cry 6 wanted to change this by leaning into the whole "guerrilla warfare" thing, which should be obvious given they say it six times per sentence, but this also means that there's nothing that really changes on the map. You can complete an area, but military trucks will still be driving around and spawning just to run into your checkpoints and die. There will be military bases but you can't free them and the enemies will just respawn once you reload. The handful of places you actually can liberate are just sort of there.
+
+There's no sense of progression on the map, or in the game. The level and unlock system in previous games has been replaced by some bizarre combination of a leveling and crafting system. You have a level, which is something between a faction rating and an actual level, which determines _I think_ what level of gear you're allowed to equip, but you can't get anything beyond your level, and I think weapons max out at level four and I finished the game at, like, level fourteen. The level seems to be pretty meaningless.
+
+Enemy outposts are now full of supplies that you can pick up, like gasoline, metal, and medicine, that you can use to craft weapons, as well as camp facilities. Each major region has a sort of hub area where you can build two facilities that provide some kind of buff. A fishing hut gives you access to new fishing gear, the hideout network gives you a wingsuit, a cantina lets you cook like Breath of the Wild, I don't know why you would want to do that, etc.
+
+They're mostly useless, if I'm being honest. The only one that seems to matter are the garrison and hideout network, one gives you more fast travel locations and the wingsuit to get around faster, and the other mostly just lets you buy better guns and equips roving guerrillas with rocket launchers or sniper rifles, but they don't do anything or matter really. The rest of the camps are related to minigame sort of content like hunting or fishing, which I did not engage it at all because there's not really a reason to and I didn't care.
+
+The crafting system is as deep as a puddle, with each weapon type having a handful of attachments available in one of four slots. Higher level weapons have two perk slots which let you equip something that makes you reload faster, or heal on headshots, which I guess is supposed to replace what would have been skills in previous games. I ended up with thousands of crafting materials with nothing to use them on because upgrading the two useful camps fully cost a few hundred and there was nothing else after that. The higher level weapon attachments use some rarer materials, but at no point in the game did I even have to look at what things cost to figure out what I needed to go hunting for it, somehow I just always had everything I needed for whatever I wanted after about three hours.
+
+They've also added supremos, which are sort of like an ultimate ability in Overwatch. The default supremo is a rocket launcher you wear on your back that fires off somewhere between five and ten guided rockets that will seek enemies and explode. I kept the default one on the whole time, because none of the other ones seemed that useful, and also I didn't use it. I used it maybe fifteen times, twelve of which being accidental because it was bound to V which is bound to melee in Overwatch which is one of my two mouse buttons. Either I'd be trying to melee and go for full rocket fire, or I would just accidentally hit the button. In this same vein, there's a bunch of kooky weapons made of duck tape and oil cans or whatever that are like flamethrowers or special shotguns or something, I didn't use any of those either. You get supremos and resolver weapons by bringing Juan depleted uranium, which you get from anti-air batteries scattered around the map.
+
+The AA batteries prevent you from flying in that area and air dropping over fast travel points. This is mostly a non-issue as flying in this game is slow as shit and the planes and helicopters aren't very powerful, so I would say it's not really worth it. The fastest way to get somewhere is usually air dropping from the closest fast travel points, wingsuiting as far as you can, hitting a road and spawning your car. That said, there's still a significant amount of travel time involved in getting most places. The map is probably one of the bigger ones so far, but also one of the most empty, with a whole lot of nothing between a lot of points.
+
+Now, why would you not use the supremo/ultimate abilities or the superweapon things they added into the game? Frankly, they're less effective than a silenced rifle or sniper rifle. The optimal playstyle in a Far Cry game has always been a silenced sniper and shooting unaware enemies in the head, which is compounded in the massive open and empty map of Far Cry 6. Every single base or checkpoint has some tree line or hilltop you can crawl up and just slowly pick people off as they walk around. I had two silenced rifles and a silenced sniper rifle, and that's what I did for the whole game. The only time I would ever be involved in an actual gunfight was when the game forced you into one, and Far Cry's shooting doesn't feel good enough to make those fun.
+
+As Old School RuneScape has taught us, "optimal" and "efficient" don't always translate to "fun," so your mileage may vary on whether or not you enjoy playing a stealth archer for the entire runtime of the game. My playstyle trends towards that so it's probably what I would have done anyway, but this game in particular feels as though it's pushed the needle so heavily to one side that I think you'd just be wasting time by playing some kind of tank that runs at the enemies with the resolver weapons and a light machine gun popping off supremos on cooldown.
+
+One of the ways they "accomplished" this was the new armor system they introduced for enemies. Unarmored enemies are weak to soft-target rounds, armored enemies are weak to armor-piercing rounds, the poison flamethrower hazmat suits are weak to incendiary rounds, and vehicles and juggernaut guys are weak to blast rounds. This is a fucking piece of shit system and whoever thought this was a good idea shouldn't be allowed to design core systems for video games.
+
+Honestly, it boggles my fucking mind how this made it into the game. If you use soft-target rounds on armored enemies, they will quite literally eat two clips unless you hit them mostly in the head, in which case it's one. The early game when I was trying to just ignore this bullshit system was so incredibly unsatisfying because I was unloading into literal bullet sponges. As it turns out, the way to not have to deal with this is to put armor-piercing rounds on everything and shoot them in the head. Every enemy goes down with one, at most two shots to the head. If your aim is good enough, the system is completely undone but also means you're forced into the stealth sniper playstyle.
+
+If you choose not to play this way, you just have to carry weapons with different ammo types and SWITCH GUNS depending on the type of enemy you want to shoot like you're playing a fucking MMO. This sort of works in MMOs when switching isn't such a pain in the ass and they aren't looking at you and shooting you. If you shoot unarmored enemies in the chest with AP rounds, somehow their shirt absorbs the majority of the damage and it takes five to ten shots to the body to mostly kill them. It's such a stupid, misguided, and frustrating system that the best way to play the game is to play the game in a way that ignores it, which means sniping everyone in the head with AP rounds.
+
+That's why the supremos and the resolver weapons and a more frontline playstyle doesn't work and isn't fun, you just sit there juggling weapons. It's asinine. Enemy types will be mixed together too, so you might walk up to an outpost, shoot one soft target, switch, shoot an armored guy, switch to incendiary, then back to soft, then back to armor depending on how the enemies move at you.
+
+I made a comment on Discord about ten hours in that said "I've never seen a game so thoroughly undone by a player's ability to aim," and this is what I was talking about. From what I can gather, I believe this system was actually meant to force players _away_ from silenced sniper rifles and sneaking, but ironically ended up so strongly reinforcing it that it's the only way I could really recommend playing the game. Now, I was playing on the harder of the two difficulties so maybe if you pick the other one, this also isn't a problem and you can do whatever you want.
+
+That's... Really all there is to say. You shoot things, the shooting isn't very satisfying and the gunplay is a bit loose, but it doesn't really matter if you're shooting everything in the head anyway, and then the game is sort of over. There's a handful of different types of activities. The doomsday prepper stashes make a return from 5, but with a different name, I think they're called treasure hunts. Weapons and weapon crafting materials are doled out in checkpoints, bases, and randomly on the map in FND boxes but they aren't really worth going out of your way to collect as you'll encounter enough of them on your way to something else or while you're in the area doing something.
+
+The buddy system from Far Cry 5 is also back, but this time you can only pick from animals and don't get the option of bringing along somebody with guns. Again, an entire system I didn't bother to interact with because it doesn't matter when you're sitting on a hill and shooting everyone in the head. Hunting and fishing are both a thing, I think it's mostly a way of earning money but I didn't really find myself needing to use money at any point.
+
+There's supply drops you will find around the map that you can steal for materials if you find yourself needing those for some reason. There are missions that are the same thing but you start at point A and have to race to point B where there will be some supplies in less than two minutes or whatever the timer says. I tried one of those missions once, decided I hated them, and never looked at them again. There are some races that you can do, I think, but I didn't because the driving in this game is not great. There's cockfighting where you can collect different looking chickens to fight and I guess place bets on it. The only reason I know this is in the game is I found a chicken once and saw a headline about PETA being mad it was in the game.
+
+Uh...
+
+Yeah...
+
+It's like them somehow distilled Far Cry to produce the most quintessential (quintessential with an 'L' not an 'N', Garnt) Far Cry experience imaginable. It's not bad, per say, but it's somehow worse than previous entries which I suppose keeps the trend of each successive game being worse than the last one and it does not provide a compelling experience for $60+. I got the game for free, and I would say that's about what this experience is worth to me. If I was looking for a mindless shooting open world game, I might go $10 on sale, and even for $10 I might be a bit disappointed.
+
+I think part of the problem that makes this feel more Far Cry and also worse is that they did somehow produce highly refined and concentrated Far Cry for this experience, but it's also just as buggy, if not buggier, than you would expect the typical Ubisoft game to be. Sometimes it feels like Ubisoft just really sucks at making video games.
+
+![](/assets/images/far_cry_6/tailgating.png)
+Tailgating.
+{:.caption}
+
+From subtitles in cutscenes being desynched by over ten seconds, lines simply skipping at times, NPC's disappearing when they're talking to you, collision issues, freezes and crashes, bad checkpoints in some missions, enemies spawning inside of geometry, whatever is wrong with this truck that's sticking out of the ground... It has all of the issues that I would describe as being characteristic of Ubisoft games, although I didn't encounter the Ubisoft Audio Issue (TM), so look out for a review of a future Ubisoft game where I do have it and rant about it for 6,000 words.
+
+![](/assets/images/far_cry_6/mission_objective.png)
+Mission objective fell out of the car. There's supposed to be another NPC laying in front of her.
+{:.caption}
+
+![](/assets/images/far_cry_6/clipping_truck.png)
+This is definitely a Ubisoft game.
+{:.caption}
+
+![](/assets/images/far_cry_6/enemy_clipping.png)
+Got softlocked because an enemy was stuck in a rock.
+{:.caption}
+
+The gameplay and the story both seem to hold each other back in equal measure. The gameplay can't evolve beyond the confines of the incredibly formulaic and bland story, and the story can't do anything different because Ubisoft has dedicated themselves to only making a single type of game that is identical to every other game they make.
+
+Honestly, I think Cookie Clicker displays more creativity than this game does. It's a re-run plot in a copied game with a new map with somewhere between nothing and very little to differentiate it from past experiences you might have had with the series. There's not a moment that I would point out as being memorable, and there's nothing in the experience that is a must-have that you would want to recommend to a friend, if you had any.
+
+Speaking of friends, and looping back around to multiplayer, the best way to play this game is probably with another person. From what I saw in the Girlfriend Reviews video, mutliplayer amplifies the number of bugs significantly to provide laughs and additional opportunities to make your own fun, which probably results in a more enjoyable experience than actually playing this game.
+
+From the opening title sequence that plays when you first launch the game that feels like a very... I don't know... Breaking Bad or Game of Thrones sort of thing? It feels like a high budget TV show that everyone will rave about for a few years until it's over and everyone moves on that I'll never watch, and from that I was actually somewhat hopeful that they were going to put some ambition and passion into this game, but unfortunately all of that ended when I hit "Start new game."
+
+<br>
+## Conclusion
+
+Far Cry 6 is a video game, replete with all of the elements one would expect of such. A story that someone somewhere presumably wrote instead of feeding a keyphrase into GPT-3 . Voice actors who have accents to remind you of Ubisoft's commitment to diversity, inclusion, and a safe and non-toxic workplace environment (they're still working on that one by letting all of those people keep their jobs) and will even throw in a Spanish word once per sentence to remind you other cultures exist. Gameplay, ostensibly. Music, I think. The list goes on. I'm told.
+
+It's like they tried to make something that definitively embodies the concept of the words "video game," much in the same way that white rice definitively embodies the concept of the word "sustenance." It's just so incredibly mediocre that after five hours, you're done. After ten, you want it to stop. And after fifteen, you're begging for somebody to make it end. Unfortunately, I had to spend twenty-four hours of my life in Yara, which is twenty-five hours too long.
+
+Writers, directors, and other arsty-fartsy types will always talk about what they feel, and what feelings they want their work to inspire in people who look at what they've created. In this instance, I can only assume the objective for the team at Ubisoft was to cause their players physical, mental, and emotional pain by way of producing an uninspiring and lifeless husk of a video game for you to stumble and suffer your way through. Let me assure you, they've done it.
+
+## **Shadow Reviews Far Cry 6: 1.5/10**
