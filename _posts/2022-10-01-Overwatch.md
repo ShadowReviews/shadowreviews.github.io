@@ -9,9 +9,11 @@ date: 2022-10-01 12:00:00 -0500
 categories: jekyll update
 
 ---
-# Overwatch, A History
+## Overwatch, A History
 <br>
-## Development
+
+# Development
+
 In 2007, a small team of Blizzard elites began working on a brand new IP. Later described as a "Top Secret" and "Next-Gen" project, the team continued working in relative secrecy with very little, if any, information being released to the media about such a huge project from one of the most adored studios of the age.
 
 In 2010, a leaked internal development schedule of the next few years revealed the first information about the title. *Titan* was targeting a Q4 2013 release date. The team continued to toil away in the shadows, and in a 2011 interview then Blizzard COO Paul Sams said their long term vision was for the project to "still be growing strong" in 10, 15, or 20 years, having "set a new mark in the industry."
@@ -36,7 +38,7 @@ On May 5, 2016 Overwatch was made available to the world with an open beta, whic
 
 <br>
 
-## From Release to a Day in November
+# From Release to a Day in November
 Overwatch continued to remain massive for years, as one of the most popular, profitable, and played multiplayer games in the industry. Content updates were slow, but generally high quality when they did hit. The first new hero, Ana, released on July 19, 2016 with the first map of Eichenwalde on September 1 of the same year.
 
 Over the course of the next few years, the team would release maps such as Horizon Lunar Colony, Junkertown, Blizzard World, Rialto, Busan, Paris, and Havana which released on May 7, 2019.
@@ -49,7 +51,7 @@ Then, there was silence.
 
 <br>
 
-## Departure of Jeff Kaplan
+# Departure of Jeff Kaplan
 On April 20, 2021, in a 99 word statement posted to the Overwatch website, Jeff Kaplan announced he was leaving Blizzard.
 
 A career that had started in 2002 as a quest designer on World of Warcraft from connections formed in an EverQuest guild under the alias "Tigole" ended suddenly, with a brief statement, in the middle of an already obviously troubled development cycle for the successor to one of the industry's juggernauts.
@@ -62,7 +64,7 @@ He was, to many, one of the people who made Overwatch what it was. And now, he w
 
 <br>
 
-## The Great Silence
+# The Great Silence
 After the 2019 announcement of Overwatch 2, and the release of the first game's final hero in April of 2020, there was silence.
 
 No news, no updates, no chats with Jeff. Just... Nothing. Then when Jeff left in 2021, and a brief update from the new director, Aaron Keller, there was silence once again. For months, no information at all, despite assurances from Keller the team wanted to and would do a better job communicating with the playerbase in the future.
@@ -73,7 +75,7 @@ The segment, which lasted just shy of half an hour, featured a show match of pla
 
 <br>
 
-## Lawsuit and the Summer of 2021
+# Lawsuit and the Summer of 2021
 After already a year of no new content, no updates, and no release window, players were already on edge and frustrated with Blizzard and their lack of updates. When Kaplan departed suddenly in early 2021, it seemed to truly be the darkest day of Overwatch. Unfortunately, it had yet to come.
 
 On July 21, 2021 the State of California's Department of Fair Employment and Housing filed a lawsuit against Activision Blizzard after a two year investigation by the agency. The lawsuit alleges a culture of discrimination and harassment towards female employees that had gone unaddressed for years.
@@ -86,19 +88,20 @@ As of writing, the suit is still on-going.
 
 <br>
 
-## Beta, Again
+# Beta, Again
 Finally, after two years with no significant updates to Overwatch, an invitation-only beta for Overwatch 2 was launched on April 26, 2022. This gave players access to many reworked and re-balanced heroes, one new hero, one new game mode, and a few new maps, and of course the first taste of the new 5v5 future for the game.
 
 A second beta was run in July which introduced another hero and one additional map. Each beta ran for a little over two weeks and served as the first concrete *anything* the team had to show for the new game since its announcement that fateful November day in 2019.
 
 <br>
-# Gameplay
+
+## Gameplay
 
 Now that we have a fairly comprehensive history of the game, let's actually review it. Sort of.
 
 <br>
 
-## Heroes
+# Heroes
 The heroes are Overwatch. It is the single most fundamental component of the gameplay, and it is the game's identity and soul. Without the heroes, this game is nothing.
 
 Each hero has a unique kit, playstyle, and aesthetic. There are a few archetypes that the heroes fit in, and they fit into one of three categories. However, there's no instance in which two characters are perfectly interchangeable. Sometimes characters can do *similar* things, but there's no instance in which you can just swap one character out for another to achieve the same result without having to change something else.
@@ -119,7 +122,7 @@ Despite these problems, the distinctive gameplay offered by each character remai
 
 <br>
 
-## Maps and Modes
+# Maps and Modes
 The maps look amazing, but are fairly pedestrian. Each map has a strong sense of identity and great theming, with small narrative bits woven throughout, but that doesn't always translate to something that plays well. They're all fairly linear, which makes them read relatively easily, but with a heavy reliance on chokepoints to force desired gameplay effects out of players.
 
 In some instances, this leads to maps being incredibly unbalanced where one team just has to throw themselves at a small chokepoint over and over again until they eventually get through. The worst example of this being Paris, which was so detested it was quickly removed from competitive play, and years later removed from the game entirely -- along with Horizon Lunar Colony.
@@ -132,7 +135,7 @@ Still, the maps are overall decent, with only a few particularly bad ones that w
 
 <br>
 
-## Ranked vs Quickplay
+# Ranked vs Quickplay
 When Overwatch launched, there was no such thing. There was just "play." Eventually the Competitive mode was added. It was already in the game, just locked for a period of time as everyone got settled.
 
 Now, they're two distinct modes. Both feature skill based match-making (Call of Duty players in shambles) with competitive mode showing you your rank and allowing you to measure your progression. The only gameplay difference is that competitive games are longer, with each team having the chance to both attack and defend on every game mode except Control. Streamers by and large play competitive exclusively, whereas I've always played quick play.
@@ -143,7 +146,7 @@ Still, as someone who is extremely non-competitive, I kick back with a video on 
 
 <br>
 
-## Story Events
+# Story Events
 Another element of the game is the "seasonal" events that they started running with the 2016 Summer Games, an in-game event that ran alongside the 2016 Olympic Games and featured themed skins, sprays, voice lines, and a soccer minigame.
 
 Now there's various different events throughout the year, with some of them introducing the games only PvE content in the form of "missions." The first to be introduced was the Halloween Event in 2016 with Junkenstein's Revenge, which pits four players up against a horde of Zombified Omnic robots to defend a small portion of Eichenwalde in several waves, lasting about ten minutes per game.
@@ -155,7 +158,8 @@ In all, they're kind of nothing. They're the closest you can get to literally no
 Not helping is the fact that they never really introduced new ones. There were three total story events, and three or four other seasonal events, but after that they just kept running the same ones every year, which led to the joke of "Oh boy, I can't wait to play Junkenstein's revenge for the sixth year!"
 
 <br>
-# Cinematics
+
+## Cinematics
 While Overwatch doesn't have a campaign mode, it does have a universe, which was developed and explored almost entirely through other forms of media -- novels, comics, and cinematic shorts.
 
 Blizzard has always been famous in the industry for the quality of their cinematic pieces, often being leaps and bounds ahead of what everyone else could (or would) do. In this regard, Overwatch stands above with several fantastic cinematic shorts released over the years.
@@ -166,7 +170,7 @@ Good luck, everyone else.
 
 <br>
 
-## Overwatch Cinematic Trailer
+# Overwatch Cinematic Trailer
 Released: November 7, 2014
 
 The first short serves as the announcement trailer for the game, establishing the world and Overwatch as the sort of modern-day superhero story. It briefly describes the Omnic Crisis, how Overwatch saved the world, and finally how Overwatch collapsed and shutdown.
@@ -181,7 +185,7 @@ This isn't super surprising though as the trailer was a year and a half before t
 
 <br>
 
-## Recall
+# Recall
 Released: March 23, 2016
 
 Recall finds Winston alone in the abandoned Overwatch Watchpoint Gibraltar, working on a prototype shield generator. After a failed test, he kicks back on his tire at the computer with some peanut butter and a banana to watch the news.
@@ -196,7 +200,7 @@ The animation is still solid with music that triumphantly swells in all the righ
 
 <br>
 
-## Alive
+# Alive
 Released: April 5, 2016
 
 Alive sees Widowmaker assassinate Tekhartha Mondatta, leader of the Shambali, as he gives a speech on King's Row. The Shambali Monks ponder the nature of consciousness and argue that Omnics possess souls the same as humans do, while advocating for peace between mankind and their would-be robot overlords.
@@ -209,7 +213,7 @@ The best short yet, by far, and one of the best overall. The cinematography is s
 
 <br>
 
-## Are You With Us?
+# Are You With Us?
 Released: May 2, 2016
 
 Released as the open beta was, the two minute teaser trailer also serves as the game's opening. In it, Winston attempts to find the right words to say to recall the Overwatch team, asking them to disobey the law and to try and make a difference in the world once again as it verges on the brink of all-out war for the second time in thirty years.
@@ -222,7 +226,7 @@ It's pretty solid, but the fact that it played every time you launched the game 
 
 <br>
 
-## Dragons
+# Dragons
 Released: May 16, 2016
 
 Dragons tells the folktale of the two great dragon brothers -- the Dragon of the North Wind and the Dragon of the South Wind -- but also the tale of Genji and Hanzo Shimada.
@@ -231,7 +235,7 @@ I'm not really going to bother summarizing it other than to say it's amazing, go
 
 <br>
 
-## Hero
+# Hero
 Released: May 22, 2016
 
 Days until release: two.
@@ -250,7 +254,7 @@ Overall, it's an alright short. The music pops off, but there's not as much to i
 
 <br>
 
-## The Last Bastion
+# The Last Bastion
 Released: August 18, 2016
 
 Oh boy.
@@ -275,7 +279,7 @@ Go watch this. Doesn't matter how many times you've seen it, do it again. It's l
 
 <br>
 
-## Infiltration
+# Infiltration
 Released: November 4, 2016
 
 This short establishes Sombra as a character, working on her own within the Talon organization as she intentionally botches an assassination attempt on Katya Volskaya, the CEO of Volskaya Industries. It ties in with the ARG they ran back in the day, as well as her other character video in which she alludes to her own agenda rather than actually marching to the beat of Talon's drum.
@@ -286,7 +290,7 @@ Can probably skip this one.
 
 <br>
 
-## Rise and Shine
+# Rise and Shine
 Released: August 23, 2017
 
 This one is just fucked up.
@@ -303,7 +307,7 @@ This one is pretty good, but kind of fucked up. It's a bit slow, but is very dif
 
 <br>
 
-## Honor and Glory
+# Honor and Glory
 Released: November 3, 2017
 
 The GOAT.
@@ -330,7 +334,7 @@ You can't escape.
 
 <br>
 
-## Shooting Star
+# Shooting Star
 Released: August 22, 2018
 
 This one is about D.Va. A tabloid news report talks about the glamorous life-style she lives, hanging out with the latest celebrities, eating only the finest food, and drinking only the finest... drinks...
@@ -345,7 +349,7 @@ It's eh. Probably one of the weaker ones so far. I don't have a ton to say about
 
 <br>
 
-## Reunion
+# Reunion
 Released: November 2, 2018
 
 Reunion introduces a few characters -- notably Ashe and Echo. This short premiered just a few weeks before the release of Ashe, and teased what would become the final Overwatch character in Echo. The main character of the short is the cowboy himself, McCre--uh.
@@ -356,7 +360,7 @@ It's basically just a western movie cut down to seven and a half minutes, with t
 
 <br>
 
-## Zero Hour
+# Zero Hour
 Released: November 4, 2019
 
 Zero Hour was shown alongside the announcement of Overwatch 2 at BlizzCon 2019. In it, Winston, Mei, and Tracer go to Paris to stop an attack by Null Sector. Null Sector is basically an Omnic supremacy terrorist organization. At the time of their deployment, those three are the only ones who responded to the recall. I mean, Winston issued it, so he doesn't really count.
@@ -373,7 +377,7 @@ If only we had known.
 
 <br>
 
-## The Wastelander
+# The Wastelander
 Released: June 16, 2022
 
 I had originally written that Shooting Star was the worst short, until I remembered this exists.
@@ -391,7 +395,7 @@ It's very different than the others, if they just wanted to try something quirky
 I won't lie, I couldn't even bring myself to go watch this one again for this review. I just skipped it. I hate it.
 
 <br><br>
-# Flowers for Overwatch
+## Flowers for Overwatch
 
 You might wonder when the review is happening.
 
@@ -424,7 +428,7 @@ Overall, I just find it frustrating with a side of painful irony from the game t
 
 <br><br><br><br>
 
-## "Never accept the world as it appears to be... Dare to see it for what it could be."
+# "Never accept the world as it appears to be... Dare to see it for what it could be."
 
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -435,4 +439,4 @@ Overall, I just find it frustrating with a side of painful irony from the game t
 
 
 
-# Shadow "Reviews" Overwatch: Die with glory, old friend.
+## Shadow "Reviews" Overwatch: Die with glory, old friend.
