@@ -9,8 +9,6 @@ date: 2022-10-01 12:00:00 -0500
 categories: jekyll update
 
 ---
-# Shadow Reviews: Overwatch
-<br><br><br>
 # Overwatch, A History
 <br>
 ## Development
