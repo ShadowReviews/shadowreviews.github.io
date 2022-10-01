@@ -4,7 +4,7 @@ layout: post
 
 title: "Shadow Reviews: Overwatch"
 
-date: 2022-10-01 00:00:00 -0600
+date: 2022-10-01 12:00:00 -0500
 
 categories: jekyll update
 
